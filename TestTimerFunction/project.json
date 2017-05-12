@@ -1,0 +1,9 @@
+{
+    "frameworks": {
+        "net46": {
+            "dependencies": {
+                "Serilog": "2.4.0"
+            }
+        }
+    }
+}
