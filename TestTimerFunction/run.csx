@@ -1,5 +1,7 @@
 using System;
-using Serilog;
+using Serilog.Core;
+using Serilog.Events;
+using Serilog.Formatting;
 // using Serilog.Sinks.Azure.WebJobs
 
 public static void Run(TimerInfo timer, TraceWriter log)
